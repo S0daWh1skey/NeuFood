@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:NeuFood.xcodeproj">
+      location = "group:/Users/albertsphepherd/Desktop/NeuFood/NeuFood/bgimage.JPG">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

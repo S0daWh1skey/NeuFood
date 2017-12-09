@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import NeuFood
+//@testable import NeuFood
 
 class NeuFoodTests: XCTestCase {
     
